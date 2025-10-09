@@ -13,13 +13,14 @@ This folder contains a Marp presentation for the ghcptest repository.
 ## Files
 
 - `slides.md`: The main presentation file in Markdown format
+- `theme.css`: Custom theme with Segoe UI font and Microsoft Student Hub colors
 
 ## Building Locally
 
 To build the presentation locally, run:
 
 ```bash
-npx @marp-team/marp-cli@latest marp/slides.md -o dist/index.html
+npx @marp-team/marp-cli@latest marp/slides.md --theme marp/theme.css -o dist/index.html
 ```
 
 This will generate an HTML presentation in the `dist` folder.
