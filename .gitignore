@@ -5,6 +5,11 @@
 
 # User-specific files
 *.rsuser
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
 *.suo
 *.user
 *.userosscache
@@ -24,6 +29,15 @@ mono_crash.*
 x64/
 x86/
 [Ww][Ii][Nn]32/
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -397,3 +411,19 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Rider
+.idea/
+*.sln.iml
