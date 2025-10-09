@@ -1,0 +1,46 @@
+/* @theme student-hub */
+
+@import 'default';
+
+:root {
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  --color-background: #F5F5F5;
+  --color-foreground: #1F1F1F;
+  --color-highlight: #0078D4;
+}
+
+section {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+}
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6 {
+  color: var(--color-foreground);
+}
+
+section a {
+  color: var(--color-highlight);
+}
+
+section code {
+  background-color: #E8E8E8;
+  color: var(--color-foreground);
+}
+
+section pre {
+  background-color: #E8E8E8;
+}
+
+section pre code {
+  background-color: transparent;
+}
+
+section strong {
+  color: var(--color-foreground);
+}

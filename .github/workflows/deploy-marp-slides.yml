@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - 'marp/slides.md'
+      - 'marp/theme.css'
       - '.github/workflows/deploy-marp-slides.yml'
 
 permissions:
@@ -35,7 +36,7 @@ jobs:
         run: mkdir -p dist
 
       - name: Compile slides
-        run: npx @marp-team/marp-cli@latest marp/slides.md -o dist/index.html
+        run: npx @marp-team/marp-cli@latest marp/slides.md --theme marp/theme.css -o dist/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: student-hub
 paginate: true
 ---
 

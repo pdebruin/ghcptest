@@ -76,7 +76,7 @@ This repository includes a Marp presentation demonstrating the project. The pres
 To build the presentation locally:
 
 ```bash
-npx @marp-team/marp-cli@latest marp/slides.md -o dist/index.html
+npx @marp-team/marp-cli@latest marp/slides.md --theme marp/theme.css -o dist/index.html
 ```
 
 ## 🤝 Contributing
