@@ -70,7 +70,7 @@ This repository can be used to:
 This repository includes a Marp presentation demonstrating the project. The presentation is automatically built and deployed to GitHub Pages.
 
 - **Presentation source**: [`marp/slides.md`](marp/slides.md)
-- **View online**: Available at GitHub Pages after deployment
+- **View online**: [https://pdebruin.github.io/ghcptest/](https://pdebruin.github.io/ghcptest/)
 - **Learn more**: See the [Marp README](marp/README.md) for details
 
 To build the presentation locally:
