@@ -19,10 +19,10 @@ jobs:
         dotnet-version: '9.0.x'
     
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore src/ConsoleApp/ConsoleApp.csproj
     
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build src/ConsoleApp/ConsoleApp.csproj --no-restore
     
     - name: Run application
-      run: dotnet run --no-build
+      run: dotnet run --project src/ConsoleApp/ConsoleApp.csproj --no-build

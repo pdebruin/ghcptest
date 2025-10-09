@@ -9,7 +9,7 @@ A simple .NET console application for testing GitHub Copilot.
 To build the application, run:
 
 ```bash
-dotnet build
+dotnet build src/ConsoleApp/ConsoleApp.csproj
 ```
 
 ## Running the Application
@@ -17,7 +17,7 @@ dotnet build
 To run the application, use:
 
 ```bash
-dotnet run
+dotnet run --project src/ConsoleApp/ConsoleApp.csproj
 ```
 
 ## Requirements
