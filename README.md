@@ -67,59 +67,25 @@ This repository can be used to:
 
 ## 🤝 Contributing
 
-We welcome contributions to make this test repository even more useful! Here's how you can help:
+We welcome contributions to make this test repository even more useful! 
 
-### How to Contribute
-
-1. **Fork the repository**: Click the "Fork" button at the top right of this page
-2. **Create a feature branch**: 
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make your changes**: Follow the code style guidelines below
-4. **Commit your changes**: Write clear and descriptive commit messages
-   ```bash
-   git commit -m "Add: brief description of your changes"
-   ```
-5. **Push to your fork**:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. **Open a Pull Request**: Go to the original repository and click "New Pull Request"
-
-### Code Style Guidelines
-
-- Follow clean code principles
-- Write clear and descriptive commit messages
-- Keep functions small and focused
-- Use meaningful variable and function names
-- Document complex logic with comments
-
-### Testing Guidelines
-
-- Write tests for new features when applicable
-- Ensure all tests pass before committing
-- Aim for high code coverage
-
-### Pull Request Process
-
-1. Ensure your code follows the style guidelines
-2. Update documentation if you're adding new features
-3. Make sure all tests pass
-4. Request a review from maintainers
-5. Address any feedback from reviewers
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for detailed information on:
+- How to submit issues and pull requests
+- Code style guidelines
+- Testing requirements
+- Development best practices
 
 ## 📝 Best Practices
 
-- Make small, incremental changes
-- Review code before committing
-- Follow existing code patterns and conventions
-- Consider edge cases when implementing features
-- Keep documentation up to date with code changes
+For development best practices, code style guidelines, and testing standards, please refer to our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## 📄 License
 
-This project is available for testing and educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔒 Security
+
+If you discover a security vulnerability, please follow our [Security Policy](SECURITY.md) for responsible disclosure.
 
 ## 🙋 Getting Help
 
