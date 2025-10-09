@@ -41,7 +41,7 @@ Azure AI Foundry (formerly Azure AI Studio) provides a unified experience for bu
 
 ---
 
-# How to Create an Azure AI Foundry Instance 1/2
+# How to Create an Azure AI Foundry Instance 2/2
 
 ## Steps using Azure CLI
 
