@@ -29,3 +29,6 @@ artifacts/
 
 # Snapshots for acceptance testing (Shouldly)
 *.received.*
+
+# Marp build output
+dist/

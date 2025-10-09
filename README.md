@@ -65,6 +65,20 @@ This repository can be used to:
 3. Let GitHub Copilot suggest implementations
 4. Review, modify, and iterate on the suggestions
 
+## 🎬 Marp Presentation
+
+This repository includes a Marp presentation demonstrating the project. The presentation is automatically built and deployed to GitHub Pages.
+
+- **Presentation source**: [`marp/slides.md`](marp/slides.md)
+- **View online**: Available at GitHub Pages after deployment
+- **Learn more**: See the [Marp README](marp/README.md) for details
+
+To build the presentation locally:
+
+```bash
+npx @marp-team/marp-cli@latest marp/slides.md -o dist/index.html
+```
+
 ## 🤝 Contributing
 
 We welcome contributions to make this test repository even more useful! 
