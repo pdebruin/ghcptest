@@ -27,7 +27,7 @@ A GitHub Copilot Testing Repository
 
 Azure AI Foundry (formerly Azure AI Studio) provides a unified experience for building AI solutions.
 
-## Steps using Azure CLI
+## Steps using Azure CLI 1/2
 
 1. **Install the Azure CLI extension**
    ```bash
@@ -38,6 +38,8 @@ Azure AI Foundry (formerly Azure AI Studio) provides a unified experience for bu
    ```bash
    az group create --name <resource-group-name> --location <location>
    ```
+
+## Steps using Azure CLI 2/2
 
 3. **Create an Azure AI Foundry hub**
    ```bash
