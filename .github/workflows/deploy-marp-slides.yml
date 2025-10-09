@@ -6,8 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'marp/slides.md'
-      - 'marp/theme.css'
+      - 'marp/**'
       - '.github/workflows/deploy-marp-slides.yml'
 
 permissions:
