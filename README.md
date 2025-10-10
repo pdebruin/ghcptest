@@ -1,6 +1,7 @@
 # ghcptest
 
 ![.NET Console App CI](https://github.com/pdebruin/ghcptest/workflows/.NET%20Console%20App%20CI/badge.svg)
+![Deploy Marp Slides to GitHub Pages](https://github.com/pdebruin/ghcptest/workflows/Deploy%20Marp%20Slides%20to%20GitHub%20Pages/badge.svg)
 
 A simple .NET console application for testing GitHub Copilot.
 
