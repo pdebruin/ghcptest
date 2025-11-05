@@ -32,6 +32,8 @@ This repository serves as a testing ground for GitHub Copilot features and capab
 
 Whether you're new to GitHub Copilot or an experienced user looking to test specific scenarios, this repository provides a space to learn and experiment.
 
+🎥 **[Watch the demo video](https://www.youtube.com/watch?v=IPGb5DRtgD8)** to see this repository in action!
+
 ## 🚀 Getting Started
 
 ### Prerequisites
