@@ -63,3 +63,7 @@ Azure AI Foundry (formerly Azure AI Studio) provides a unified experience for bu
 **Source:** [Microsoft Learn - Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 
 ---
+
+# Thank you
+
+http://aka.ms/pieter
