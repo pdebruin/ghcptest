@@ -25,14 +25,21 @@ npx @marp-team/marp-cli@latest marp/slides.md --theme marp/theme.css -o dist/ind
 
 This will generate an HTML presentation in the `dist` folder.
 
-## GitHub Pages Deployment
+## Deployment Options
+
+The presentation can be deployed to multiple platforms:
+
+### GitHub Pages Deployment
 
 The presentation is automatically deployed to GitHub Pages when changes are pushed to the `main` branch. The deployment is handled by the `.github/workflows/deploy-marp-slides.yml` workflow.
 
-## Viewing the Presentation
+**URL**: `https://pdebruin.github.io/ghcptest/`
 
-Once deployed, the presentation will be available at:
-`https://pdebruin.github.io/ghcptest/`
+### Azure Static Web Apps Deployment
+
+The presentation can also be deployed to Azure Static Web Apps for enterprise hosting. See [AZURE_DEPLOYMENT.md](AZURE_DEPLOYMENT.md) for setup instructions.
+
+The deployment is handled by the `.github/workflows/deploy-marp-azure-static-web-apps.yml` workflow.
 
 ## Editing the Presentation
 
