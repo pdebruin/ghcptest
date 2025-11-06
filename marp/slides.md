@@ -4,6 +4,12 @@ theme: student-hub
 paginate: true
 ---
 
+# Welkom!
+
+Voor Nederlandstalige bezoekers: bezoek mijn blog op [blog.pdebruin.org](https://blog.pdebruin.org)
+
+---
+
 # Welcome to ghcptest
 
 A GitHub Copilot Testing Repository
